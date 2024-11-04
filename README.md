@@ -7,7 +7,7 @@ Monitoring Land Use Transitions for Sustainable Forest Management
 - [Project Goals](#project_goals)
 - [Theory and Background](#theory).
 - [Methodology](#methodology).
-- [Project Workflow](#Project-Workflow)
+- [Outputs](#Outputs)
 - [Thematic Layer](#thematic-layer)
 - [Correlation between LST and NDVI](#Correlation-between-LST-and-NDVI)
 - [Land Use Land Cover](#land-use-land-cover)
@@ -60,14 +60,10 @@ The tool works with GeoTIFF raster files representing LULC classifications for d
 
 
 
-## Thematic Layer
-<img src="Images/NDVI1999.png" alt="Sample Screenshot" width="500">
-<img src="Images/NDVI2009.png" alt="Sample Screenshot" width="500">
-<img src="Images/NDVI2019.png" alt="Sample Screenshot" width="500">
+## Outputs
+Below are sample visualizations showcasing the land use and land cover (LULC) transitions analyzed by this tool. These examples illustrate the type of insights the project can provide. For more detailed outputs or to generate your own results, run the project on your dataset.
+<img src="Map/transition_2015-2020.png" alt="Sample Screenshot" width="500">
 
-<img src="Images/LST1999.png" alt="Sample Screenshot" width="500">
-<img src="Images/LST2009.png" alt="Sample Screenshot" width="500">
-<img src="Images/LST2019.png" alt="Sample Screenshot" width="500">
 
 ## Correlation between LST and NDVI
 <img src="Images/LST vs NDVI 1999.png" alt="Sample Screenshot" width="500">
