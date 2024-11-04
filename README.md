@@ -3,12 +3,12 @@ Monitoring Land Use Transitions for Sustainable Forest Management
 
 
 ## Table of Contents
-- [Introduction](#Introduction)
-- [Project Goals](#project_goals)
+- [Introduction](#Introduction).
+- [Project Goals](#project-goals)
 - [Theory and Background](#theory).
 - [Methodology](#methodology).
-- [Outputs](#Outputs)
-- [Acknowledgments:](#acknowledge)
+- [Outputs](#Outputs).
+- [Acknowledgments](#acknowledge)
 
 
 ## Introduction
