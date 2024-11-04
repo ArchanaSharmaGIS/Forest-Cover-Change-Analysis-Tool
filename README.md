@@ -9,9 +9,7 @@ Monitoring Land Use Transitions for Sustainable Forest Management
 - [Methodology](#methodology).
 - [Outputs](#Outputs)
 - [Acknowledgments:](#acknowledge)
-- [Correlation between LST and NDVI](#Correlation-between-LST-and-NDVI)
-- [Land Use Land Cover](#land-use-land-cover)
-- [Results](#results)
+
 
 ## Introduction
 Forests are vital for maintaining ecological balance, providing habitat for wildlife, and serving as significant carbon sinks to mitigate climate change. However, they face various threats such as deforestation, degradation, and urban expansion. Understanding the changes in forest cover over time is essential for policymakers, conservationists, and researchers to make informed decisions that support sustainable forest management and conservation efforts.
