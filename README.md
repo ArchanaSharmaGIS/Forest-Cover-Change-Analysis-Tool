@@ -19,7 +19,7 @@ Forests are vital for maintaining ecological balance, providing habitat for wild
 The Forest Cover Change Analysis Tool is designed to facilitate this analysis by processing multi-temporal satellite raster data, identifying land use and land cover (LULC) transitions, and calculating the affected areas in hectares. This tool outputs both GeoTIFF files that visualize changes and Excel summaries that detail transition statistics.
 
 ## Project Goals
-Track and quantify forest cover loss and gain over specified time periods.<br>
+*** 1 Track and quantify forest cover loss and gain over specified time periods.<br>
 Provide actionable data to assist in forest conservation and management strategies.<br>
 Support environmental reporting and policymaking with reliable LULC transition metrics.
 
