@@ -8,7 +8,7 @@ Monitoring Land Use Transitions for Sustainable Forest Management
 - [Theory and Background](#theory).
 - [Methodology](#methodology).
 - [Outputs](#Outputs)
-- [Thematic Layer](#thematic-layer)
+- [Acknowledgments:](#acknowledge)
 - [Correlation between LST and NDVI](#Correlation-between-LST-and-NDVI)
 - [Land Use Land Cover](#land-use-land-cover)
 - [Results](#results)
@@ -69,24 +69,9 @@ Below are sample visualizations showcasing the land use and land cover (LULC) tr
 ### Transition Map
 <img src="Map/transition_2015-2020.png" alt="Sample Screenshot" width="500">
 
-## Correlation between LST and NDVI
-<img src="Images/LST vs NDVI 1999.png" alt="Sample Screenshot" width="500">
-<img src="Images/LST vs NDVI 2009.png" alt="Sample Screenshot" width="500">
-<img src="Images/LST vs NDVI 1999.png" alt="Sample Screenshot" width="500">
-
-## Land Use Land Cover
-<img src="Images/LULC1999.png" alt="Sample Screenshot" width="500">
-<img src="Images/LULC2009.png" alt="Sample Screenshot" width="500">
-<img src="Images/LULC2019.png" alt="Sample Screenshot" width="500">
+## Acknowledgments
+This tool is inspired by the need for accessible land cover analysis tools in forestry management and conservation.
 
 
-## Result
-This study provides insights into the effects of urbanization on LST in Nagpur over two decades. Below are some key findings:
-
-### Key Findings
-**NDVI vs. LST Analysis**: NDVI values have shown a decline in green vegetation, while LST has increased, correlating with the urban expansion in Nagpur.<br>
-**Regression Analysis**: The correlation between NDVI and LST highlights the impact of vegetation loss on urban temperatures.
-
-![Workflow](Images/Workflow.png)
 
 
