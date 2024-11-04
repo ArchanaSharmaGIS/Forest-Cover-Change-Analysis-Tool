@@ -61,9 +61,13 @@ The tool works with GeoTIFF raster files representing LULC classifications for d
 
 
 ## Outputs
-Below are sample visualizations showcasing the land use and land cover (LULC) transitions analyzed by this tool. These examples illustrate the type of insights the project can provide. For more detailed outputs or to generate your own results, run the project on your dataset.
-<img src="Map/transition_2015-2020.png" alt="Sample Screenshot" width="500">
+Below are sample visualizations showcasing the land use and land cover (LULC) transitions analyzed by this tool. These examples illustrate the type of insights the project can provide. For more detailed outputs or to generate your own results, run the project on your dataset.<br>
+### Land Use Land Cover Map <br>
+<img src="Map/LULC_1990.png" alt="Sample Screenshot" width="500">
+<img src="Map/LULC_2020.png" alt="Sample Screenshot" width="500">
 
+### Transition Map
+<img src="Map/transition_2015-2020.png" alt="Sample Screenshot" width="500">
 
 ## Correlation between LST and NDVI
 <img src="Images/LST vs NDVI 1999.png" alt="Sample Screenshot" width="500">
