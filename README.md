@@ -3,8 +3,8 @@ Monitoring Land Use Transitions for Sustainable Forest Management
 
 
 ## Table of Contents
-- [Introduction](#project-overview)
-- [Objective](#objective)
+- [Introduction](#Introduction)
+- [Project Goals](#project_goals)
 - [Data and Methods](#Data-and-methods).
 - [Area Of Interest](#area-of-interest).
 - [Project Workflow](#Project-Workflow)
@@ -13,17 +13,16 @@ Monitoring Land Use Transitions for Sustainable Forest Management
 - [Land Use Land Cover](#land-use-land-cover)
 - [Results](#results)
 
-## Project Overview
+## Introduction
 Forests are vital for maintaining ecological balance, providing habitat for wildlife, and serving as significant carbon sinks to mitigate climate change. However, they face various threats such as deforestation, degradation, and urban expansion. Understanding the changes in forest cover over time is essential for policymakers, conservationists, and researchers to make informed decisions that support sustainable forest management and conservation efforts.
 
-The Forest Cover Change Analysis Tool is designed to facilitate this analysis by processing multi-temporal satellite raster data, identifying land use and land cover (LULC) transitions, and calculating the affected areas in hectares. This tool outputs both GeoTIFF files that visualize changes and CSV summaries that detail transition statistics.
+The Forest Cover Change Analysis Tool is designed to facilitate this analysis by processing multi-temporal satellite raster data, identifying land use and land cover (LULC) transitions, and calculating the affected areas in hectares. This tool outputs both GeoTIFF files that visualize changes and Excel summaries that detail transition statistics.
 
-## Objective
-The main objective of this project is to examine the impact of urbanization on LST in Nagpur district by:
-<br>
-Analyzing NDVI and LST values over time.<br>
-Correlating vegetation changes with temperature variation.<br>
-Mapping LST variations across urban and rural areas.
+## Project Goals
+Track and quantify forest cover loss and gain over specified time periods.<br>
+Provide actionable data to assist in forest conservation and management strategies.<br>
+Support environmental reporting and policymaking with reliable LULC transition metrics.
+
 
 
 ## Data and Methods
